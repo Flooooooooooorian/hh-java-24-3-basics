@@ -37,5 +37,10 @@ public class MyFirstJavaApplication {
         System.out.println(!isEighteenYearsOld || false);
 
         System.out.println(10 == 11);
+
+        float f = 0.5f;
+        double d = 0.5;
+
+        String s = d + f + "abc";
     }
 }
